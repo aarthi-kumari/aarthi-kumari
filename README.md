@@ -4,11 +4,7 @@
   <em>Turning ideas into real-world projects. Learning deeply. Building consistently.</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aarthi-kumari?label=Follow&style=social" />
- 
- 
-</p>
+
 
 ```rust
 fn main(){
